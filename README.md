@@ -1,1 +1,1 @@
-# JHOSUA1521.github.io
+> Sitio web personal responsivo creado con HTML, CSS y Bootstrap. Presentación de perfil y enlaces destacados.
